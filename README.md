@@ -14,9 +14,9 @@ An enterprise-ready customer support AI widget built with Python, Streamlit, and
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.10+
-* **Framework:** Streamlit[cite: 5, 10]
-* **LLM Engine:** Google Gemini API (`gemini-3.8-flash`)[cite: 5]
-* **Environment Management:** `python-dotenv`[cite: 5, 10]
+* **Framework:** Streamlit
+* **LLM Engine:** Google Gemini API (`gemini-3.8-flash`)
+* **Environment Management:** `python-dotenv`
 
 ---
 
@@ -35,6 +35,10 @@ An enterprise-ready customer support AI widget built with Python, Streamlit, and
 
 ## ⚙️ How to Run Locally
 
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Denis-codeQween/Techstore-ai-chat.git](https://github.com/Denis-codeQween/Techstore-ai-chat.git)
+   cd Techstore-ai-chat
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Denis-codeQween/Techstore-ai-chat.git](https://github.com/Denis-codeQween/Techstore-ai-chat.git)
