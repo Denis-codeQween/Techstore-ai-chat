@@ -37,5 +37,5 @@ An enterprise-ready customer support AI widget built with Python, Streamlit, and
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Denis-codeQween/Techstore-ai-chat.git](https://github.com/Denis-codeQween/Techstore-ai-chat.git)
+   git clone https://github.com/Denis-codeQween/Techstore-ai-chat.git
    cd Techstore-ai-chat
