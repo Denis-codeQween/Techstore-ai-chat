@@ -1,0 +1,1812 @@
+{
+  "store_info": {
+    "name": "TechStore Global Enterprise",
+    "working_hours": "Mon-Sun: 24/7 Online Support, Phone: 08:00 - 22:00 (EST)",
+    "support_email": "support@techstore-global.com",
+    "support_phone": "+1-800-555-0199",
+    "headquarters": "100 Tech Plaza, Austin, TX 78701, USA"
+  },
+  "total_rules": 300,
+  "policies": [
+    {
+      "id": "POL-001",
+      "category": "Shipping & Delivery",
+      "topic": "Standard Shipping Delivery Time",
+      "content": "Standard domestic shipping takes 3-5 business days within the continental United States."
+    },
+    {
+      "id": "POL-002",
+      "category": "Shipping & Delivery",
+      "topic": "Free Shipping Minimum Threshold",
+      "content": "Free standard ground shipping applies automatically to all orders over $50 before taxes."
+    },
+    {
+      "id": "POL-003",
+      "category": "Shipping & Delivery",
+      "topic": "Express Domestic Shipping",
+      "content": "Next-day express shipping is available for $19.99 on orders placed before 2:00 PM EST."
+    },
+    {
+      "id": "POL-004",
+      "category": "Shipping & Delivery",
+      "topic": "International Destination Support",
+      "content": "We ship directly to Canada, the United Kingdom, Australia, Germany, and Japan."
+    },
+    {
+      "id": "POL-005",
+      "category": "Shipping & Delivery",
+      "topic": "International Delivery Timelines",
+      "content": "Standard international delivery takes 7-14 business days. Priority express takes 3-5 business days."
+    },
+    {
+      "id": "POL-006",
+      "category": "Shipping & Delivery",
+      "topic": "Customs Duties and Import Taxes",
+      "content": "International customers are responsible for any local customs duties or VAT applied by destination customs."
+    },
+    {
+      "id": "POL-007",
+      "category": "Shipping & Delivery",
+      "topic": "PO Box and APO/FPO Delivery",
+      "content": "Deliveries to PO Boxes and military APO/FPO addresses are sent via USPS Priority Mail only."
+    },
+    {
+      "id": "POL-008",
+      "category": "Returns & Refunds",
+      "topic": "Standard Return Policy Window",
+      "content": "Items in new condition with original packaging can be returned within 30 days of delivery."
+    },
+    {
+      "id": "POL-009",
+      "category": "Returns & Refunds",
+      "topic": "Refund Processing Timeline",
+      "content": "Approved refunds are credited back to the original payment method within 5-7 business days."
+    },
+    {
+      "id": "POL-010",
+      "category": "Returns & Refunds",
+      "topic": "Return Shipping Cost Policy",
+      "content": "Return shipping is free for defective items. Non-defective returns incur a $4.99 return label fee."
+    },
+    {
+      "id": "POL-011",
+      "category": "Returns & Refunds",
+      "topic": "Restocking Fees for Electronics",
+      "content": "Opened high-value electronics without defects carry a 15% restocking fee upon return."
+    },
+    {
+      "id": "POL-012",
+      "category": "Returns & Refunds",
+      "topic": "Holiday Extended Return Period",
+      "content": "Purchases made between November 15 and December 25 can be returned through January 31."
+    },
+    {
+      "id": "POL-013",
+      "category": "Returns & Refunds",
+      "topic": "Non-Returnable Product Categories",
+      "content": "In-ear headphones (opened), software downloads, gift cards, and custom-configured PCs cannot be returned."
+    },
+    {
+      "id": "POL-014",
+      "category": "Returns & Refunds",
+      "topic": "Instant Store Credit Bonus",
+      "content": "Customers choosing store credit instead of a refund receive an extra 5% bonus credit."
+    },
+    {
+      "id": "POL-015",
+      "category": "Warranty & Service",
+      "topic": "Standard Manufacturer Warranty",
+      "content": "All brand-new electronic products include a 1-year limited hardware warranty against defects."
+    },
+    {
+      "id": "POL-016",
+      "category": "Warranty & Service",
+      "topic": "Refurbished Equipment Coverage",
+      "content": "Certified refurbished items carry a 90-day comprehensive hardware warranty."
+    },
+    {
+      "id": "POL-017",
+      "category": "Warranty & Service",
+      "topic": "Extended Warranty Protection Plans",
+      "content": "2-year and 3-year TechCare extended protection plans are available during checkout."
+    },
+    {
+      "id": "POL-018",
+      "category": "Warranty & Service",
+      "topic": "Accidental Damage Protection",
+      "content": "TechCare Plus includes coverage for drops, spills, and cracked screens with a $25 deductible."
+    },
+    {
+      "id": "POL-019",
+      "category": "Warranty & Service",
+      "topic": "Warranty Claim Processing Steps",
+      "content": "To start a warranty claim, submit photos and a description at techstore-example.com/warranty."
+    },
+    {
+      "id": "POL-020",
+      "category": "Warranty & Service",
+      "topic": "Out-of-Warranty Repair Services",
+      "content": "Out-of-warranty diagnostic testing costs a flat $29 fee, which is applied toward repair costs if authorized."
+    },
+    {
+      "id": "POL-021",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #1. TechStore requires verified compliance with section SHP-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-022",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #2. TechStore requires verified compliance with section SHP-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-023",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #3. TechStore requires verified compliance with section SHP-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-024",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #4. TechStore requires verified compliance with section SHP-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-025",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #5. TechStore requires verified compliance with section SHP-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-026",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #6. TechStore requires verified compliance with section SHP-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-027",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #7. TechStore requires verified compliance with section SHP-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-028",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #8. TechStore requires verified compliance with section SHP-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-029",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #9. TechStore requires verified compliance with section SHP-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-030",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #10. TechStore requires verified compliance with section SHP-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-031",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #11. TechStore requires verified compliance with section SHP-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-032",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #12. TechStore requires verified compliance with section SHP-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-033",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #13. TechStore requires verified compliance with section SHP-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-034",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #14. TechStore requires verified compliance with section SHP-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-035",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #15. TechStore requires verified compliance with section SHP-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-036",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #16. TechStore requires verified compliance with section SHP-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-037",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #17. TechStore requires verified compliance with section SHP-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-038",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #18. TechStore requires verified compliance with section SHP-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-039",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #19. TechStore requires verified compliance with section SHP-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-040",
+      "category": "Shipping & Delivery",
+      "topic": "Shipping & Delivery Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding shipping & delivery item #20. TechStore requires verified compliance with section SHP-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-041",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #1. TechStore requires verified compliance with section RET-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-042",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #2. TechStore requires verified compliance with section RET-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-043",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #3. TechStore requires verified compliance with section RET-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-044",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #4. TechStore requires verified compliance with section RET-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-045",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #5. TechStore requires verified compliance with section RET-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-046",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #6. TechStore requires verified compliance with section RET-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-047",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #7. TechStore requires verified compliance with section RET-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-048",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #8. TechStore requires verified compliance with section RET-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-049",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #9. TechStore requires verified compliance with section RET-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-050",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #10. TechStore requires verified compliance with section RET-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-051",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #11. TechStore requires verified compliance with section RET-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-052",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #12. TechStore requires verified compliance with section RET-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-053",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #13. TechStore requires verified compliance with section RET-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-054",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #14. TechStore requires verified compliance with section RET-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-055",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #15. TechStore requires verified compliance with section RET-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-056",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #16. TechStore requires verified compliance with section RET-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-057",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #17. TechStore requires verified compliance with section RET-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-058",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #18. TechStore requires verified compliance with section RET-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-059",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #19. TechStore requires verified compliance with section RET-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-060",
+      "category": "Returns & Refunds",
+      "topic": "Returns & Refunds Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding returns & refunds item #20. TechStore requires verified compliance with section RET-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-061",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #1. TechStore requires verified compliance with section WRN-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-062",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #2. TechStore requires verified compliance with section WRN-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-063",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #3. TechStore requires verified compliance with section WRN-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-064",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #4. TechStore requires verified compliance with section WRN-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-065",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #5. TechStore requires verified compliance with section WRN-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-066",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #6. TechStore requires verified compliance with section WRN-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-067",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #7. TechStore requires verified compliance with section WRN-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-068",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #8. TechStore requires verified compliance with section WRN-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-069",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #9. TechStore requires verified compliance with section WRN-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-070",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #10. TechStore requires verified compliance with section WRN-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-071",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #11. TechStore requires verified compliance with section WRN-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-072",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #12. TechStore requires verified compliance with section WRN-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-073",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #13. TechStore requires verified compliance with section WRN-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-074",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #14. TechStore requires verified compliance with section WRN-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-075",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #15. TechStore requires verified compliance with section WRN-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-076",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #16. TechStore requires verified compliance with section WRN-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-077",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #17. TechStore requires verified compliance with section WRN-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-078",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #18. TechStore requires verified compliance with section WRN-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-079",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #19. TechStore requires verified compliance with section WRN-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-080",
+      "category": "Warranty & Service",
+      "topic": "Warranty & Service Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding warranty & service item #20. TechStore requires verified compliance with section WRN-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-081",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #1",
+      "content": "Installment option #1 allows splitting payments over 3 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-082",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #2",
+      "content": "Installment option #2 allows splitting payments over 6 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-083",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #3",
+      "content": "Installment option #3 allows splitting payments over 9 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-084",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #4",
+      "content": "Installment option #4 allows splitting payments over 12 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-085",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #5",
+      "content": "Installment option #5 allows splitting payments over 15 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-086",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #6",
+      "content": "Installment option #6 allows splitting payments over 18 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-087",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #7",
+      "content": "Installment option #7 allows splitting payments over 21 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-088",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #8",
+      "content": "Installment option #8 allows splitting payments over 24 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-089",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #9",
+      "content": "Installment option #9 allows splitting payments over 27 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-090",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #10",
+      "content": "Installment option #10 allows splitting payments over 30 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-091",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #11",
+      "content": "Installment option #11 allows splitting payments over 33 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-092",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #12",
+      "content": "Installment option #12 allows splitting payments over 36 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-093",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #13",
+      "content": "Installment option #13 allows splitting payments over 39 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-094",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #14",
+      "content": "Installment option #14 allows splitting payments over 42 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-095",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #15",
+      "content": "Installment option #15 allows splitting payments over 45 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-096",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #16",
+      "content": "Installment option #16 allows splitting payments over 48 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-097",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #17",
+      "content": "Installment option #17 allows splitting payments over 51 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-098",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #18",
+      "content": "Installment option #18 allows splitting payments over 54 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-099",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #19",
+      "content": "Installment option #19 allows splitting payments over 57 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-100",
+      "category": "Payments & Installments",
+      "topic": "Payment Gateways & Financing Rules #20",
+      "content": "Installment option #20 allows splitting payments over 60 months for authorized credit holders with 0% APR on selected items."
+    },
+    {
+      "id": "POL-101",
+      "category": "Order Management",
+      "topic": "Order Management Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #1. TechStore requires verified compliance with section ORD-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-102",
+      "category": "Order Management",
+      "topic": "Order Management Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #2. TechStore requires verified compliance with section ORD-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-103",
+      "category": "Order Management",
+      "topic": "Order Management Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #3. TechStore requires verified compliance with section ORD-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-104",
+      "category": "Order Management",
+      "topic": "Order Management Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #4. TechStore requires verified compliance with section ORD-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-105",
+      "category": "Order Management",
+      "topic": "Order Management Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #5. TechStore requires verified compliance with section ORD-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-106",
+      "category": "Order Management",
+      "topic": "Order Management Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #6. TechStore requires verified compliance with section ORD-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-107",
+      "category": "Order Management",
+      "topic": "Order Management Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #7. TechStore requires verified compliance with section ORD-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-108",
+      "category": "Order Management",
+      "topic": "Order Management Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #8. TechStore requires verified compliance with section ORD-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-109",
+      "category": "Order Management",
+      "topic": "Order Management Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #9. TechStore requires verified compliance with section ORD-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-110",
+      "category": "Order Management",
+      "topic": "Order Management Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #10. TechStore requires verified compliance with section ORD-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-111",
+      "category": "Order Management",
+      "topic": "Order Management Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #11. TechStore requires verified compliance with section ORD-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-112",
+      "category": "Order Management",
+      "topic": "Order Management Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #12. TechStore requires verified compliance with section ORD-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-113",
+      "category": "Order Management",
+      "topic": "Order Management Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #13. TechStore requires verified compliance with section ORD-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-114",
+      "category": "Order Management",
+      "topic": "Order Management Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #14. TechStore requires verified compliance with section ORD-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-115",
+      "category": "Order Management",
+      "topic": "Order Management Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #15. TechStore requires verified compliance with section ORD-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-116",
+      "category": "Order Management",
+      "topic": "Order Management Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #16. TechStore requires verified compliance with section ORD-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-117",
+      "category": "Order Management",
+      "topic": "Order Management Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #17. TechStore requires verified compliance with section ORD-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-118",
+      "category": "Order Management",
+      "topic": "Order Management Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #18. TechStore requires verified compliance with section ORD-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-119",
+      "category": "Order Management",
+      "topic": "Order Management Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #19. TechStore requires verified compliance with section ORD-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-120",
+      "category": "Order Management",
+      "topic": "Order Management Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding order management item #20. TechStore requires verified compliance with section ORD-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-121",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #1. TechStore requires verified compliance with section DSC-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-122",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #2. TechStore requires verified compliance with section DSC-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-123",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #3. TechStore requires verified compliance with section DSC-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-124",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #4. TechStore requires verified compliance with section DSC-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-125",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #5. TechStore requires verified compliance with section DSC-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-126",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #6. TechStore requires verified compliance with section DSC-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-127",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #7. TechStore requires verified compliance with section DSC-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-128",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #8. TechStore requires verified compliance with section DSC-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-129",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #9. TechStore requires verified compliance with section DSC-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-130",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #10. TechStore requires verified compliance with section DSC-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-131",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #11. TechStore requires verified compliance with section DSC-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-132",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #12. TechStore requires verified compliance with section DSC-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-133",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #13. TechStore requires verified compliance with section DSC-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-134",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #14. TechStore requires verified compliance with section DSC-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-135",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #15. TechStore requires verified compliance with section DSC-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-136",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #16. TechStore requires verified compliance with section DSC-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-137",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #17. TechStore requires verified compliance with section DSC-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-138",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #18. TechStore requires verified compliance with section DSC-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-139",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #19. TechStore requires verified compliance with section DSC-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-140",
+      "category": "Discounts & Loyalty",
+      "topic": "Discounts & Loyalty Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding discounts & loyalty item #20. TechStore requires verified compliance with section DSC-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-141",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #1. TechStore requires verified compliance with section SEC-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-142",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #2. TechStore requires verified compliance with section SEC-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-143",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #3. TechStore requires verified compliance with section SEC-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-144",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #4. TechStore requires verified compliance with section SEC-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-145",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #5. TechStore requires verified compliance with section SEC-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-146",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #6. TechStore requires verified compliance with section SEC-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-147",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #7. TechStore requires verified compliance with section SEC-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-148",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #8. TechStore requires verified compliance with section SEC-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-149",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #9. TechStore requires verified compliance with section SEC-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-150",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #10. TechStore requires verified compliance with section SEC-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-151",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #11. TechStore requires verified compliance with section SEC-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-152",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #12. TechStore requires verified compliance with section SEC-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-153",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #13. TechStore requires verified compliance with section SEC-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-154",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #14. TechStore requires verified compliance with section SEC-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-155",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #15. TechStore requires verified compliance with section SEC-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-156",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #16. TechStore requires verified compliance with section SEC-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-157",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #17. TechStore requires verified compliance with section SEC-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-158",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #18. TechStore requires verified compliance with section SEC-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-159",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #19. TechStore requires verified compliance with section SEC-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-160",
+      "category": "Account & Security",
+      "topic": "Account & Security Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding account & security item #20. TechStore requires verified compliance with section SEC-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-161",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #1. TechStore requires verified compliance with section TEC-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-162",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #2. TechStore requires verified compliance with section TEC-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-163",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #3. TechStore requires verified compliance with section TEC-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-164",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #4. TechStore requires verified compliance with section TEC-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-165",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #5. TechStore requires verified compliance with section TEC-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-166",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #6. TechStore requires verified compliance with section TEC-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-167",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #7. TechStore requires verified compliance with section TEC-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-168",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #8. TechStore requires verified compliance with section TEC-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-169",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #9. TechStore requires verified compliance with section TEC-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-170",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #10. TechStore requires verified compliance with section TEC-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-171",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #11. TechStore requires verified compliance with section TEC-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-172",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #12. TechStore requires verified compliance with section TEC-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-173",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #13. TechStore requires verified compliance with section TEC-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-174",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #14. TechStore requires verified compliance with section TEC-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-175",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #15. TechStore requires verified compliance with section TEC-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-176",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #16. TechStore requires verified compliance with section TEC-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-177",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #17. TechStore requires verified compliance with section TEC-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-178",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #18. TechStore requires verified compliance with section TEC-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-179",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #19. TechStore requires verified compliance with section TEC-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-180",
+      "category": "Technical Support",
+      "topic": "Technical Support Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding technical support item #20. TechStore requires verified compliance with section TEC-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-181",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #1. TechStore requires verified compliance with section B2B-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-182",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #2. TechStore requires verified compliance with section B2B-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-183",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #3. TechStore requires verified compliance with section B2B-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-184",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #4. TechStore requires verified compliance with section B2B-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-185",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #5. TechStore requires verified compliance with section B2B-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-186",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #6. TechStore requires verified compliance with section B2B-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-187",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #7. TechStore requires verified compliance with section B2B-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-188",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #8. TechStore requires verified compliance with section B2B-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-189",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #9. TechStore requires verified compliance with section B2B-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-190",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #10. TechStore requires verified compliance with section B2B-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-191",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #11. TechStore requires verified compliance with section B2B-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-192",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #12. TechStore requires verified compliance with section B2B-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-193",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #13. TechStore requires verified compliance with section B2B-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-194",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #14. TechStore requires verified compliance with section B2B-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-195",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #15. TechStore requires verified compliance with section B2B-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-196",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #16. TechStore requires verified compliance with section B2B-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-197",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #17. TechStore requires verified compliance with section B2B-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-198",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #18. TechStore requires verified compliance with section B2B-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-199",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #19. TechStore requires verified compliance with section B2B-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-200",
+      "category": "B2B & Enterprise",
+      "topic": "B2B & Enterprise Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding b2b & enterprise item #20. TechStore requires verified compliance with section B2B-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-201",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #1. TechStore requires verified compliance with section ECO-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-202",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #2. TechStore requires verified compliance with section ECO-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-203",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #3. TechStore requires verified compliance with section ECO-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-204",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #4. TechStore requires verified compliance with section ECO-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-205",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #5. TechStore requires verified compliance with section ECO-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-206",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #6. TechStore requires verified compliance with section ECO-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-207",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #7. TechStore requires verified compliance with section ECO-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-208",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #8. TechStore requires verified compliance with section ECO-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-209",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #9. TechStore requires verified compliance with section ECO-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-210",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #10. TechStore requires verified compliance with section ECO-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-211",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #11. TechStore requires verified compliance with section ECO-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-212",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #12. TechStore requires verified compliance with section ECO-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-213",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #13. TechStore requires verified compliance with section ECO-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-214",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #14. TechStore requires verified compliance with section ECO-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-215",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #15. TechStore requires verified compliance with section ECO-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-216",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #16. TechStore requires verified compliance with section ECO-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-217",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #17. TechStore requires verified compliance with section ECO-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-218",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #18. TechStore requires verified compliance with section ECO-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-219",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #19. TechStore requires verified compliance with section ECO-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-220",
+      "category": "Eco & Recycling",
+      "topic": "Eco & Recycling Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding eco & recycling item #20. TechStore requires verified compliance with section ECO-200 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-221",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #1",
+      "content": "Pre-orders for tier-1 upcoming releases require a 5% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-222",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #2",
+      "content": "Pre-orders for tier-2 upcoming releases require a 10% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-223",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #3",
+      "content": "Pre-orders for tier-3 upcoming releases require a 15% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-224",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #4",
+      "content": "Pre-orders for tier-4 upcoming releases require a 20% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-225",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #5",
+      "content": "Pre-orders for tier-5 upcoming releases require a 25% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-226",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #6",
+      "content": "Pre-orders for tier-6 upcoming releases require a 30% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-227",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #7",
+      "content": "Pre-orders for tier-7 upcoming releases require a 35% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-228",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #8",
+      "content": "Pre-orders for tier-8 upcoming releases require a 40% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-229",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #9",
+      "content": "Pre-orders for tier-9 upcoming releases require a 45% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-230",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #10",
+      "content": "Pre-orders for tier-10 upcoming releases require a 50% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-231",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #11",
+      "content": "Pre-orders for tier-11 upcoming releases require a 55% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-232",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #12",
+      "content": "Pre-orders for tier-12 upcoming releases require a 60% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-233",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #13",
+      "content": "Pre-orders for tier-13 upcoming releases require a 65% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-234",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #14",
+      "content": "Pre-orders for tier-14 upcoming releases require a 70% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-235",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #15",
+      "content": "Pre-orders for tier-15 upcoming releases require a 75% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-236",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #16",
+      "content": "Pre-orders for tier-16 upcoming releases require a 80% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-237",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #17",
+      "content": "Pre-orders for tier-17 upcoming releases require a 85% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-238",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #18",
+      "content": "Pre-orders for tier-18 upcoming releases require a 90% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-239",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #19",
+      "content": "Pre-orders for tier-19 upcoming releases require a 95% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-240",
+      "category": "Pre-Orders & Releases",
+      "topic": "Pre-Order Deposit and Fulfillment Option #20",
+      "content": "Pre-orders for tier-20 upcoming releases require a 100% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
+    },
+    {
+      "id": "POL-241",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #1",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 3 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-242",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #2",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 4 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-243",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #3",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 5 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-244",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #4",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 6 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-245",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #5",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 7 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-246",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #6",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 8 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-247",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #7",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 9 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-248",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #8",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 10 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-249",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #9",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 11 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-250",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #10",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 12 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-251",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #11",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 13 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-252",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #12",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 14 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-253",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #13",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 15 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-254",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #14",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 16 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-255",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #15",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 17 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-256",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #16",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 18 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-257",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #17",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 19 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-258",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #18",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 20 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-259",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #19",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 21 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-260",
+      "category": "In-Store Pickups",
+      "topic": "Locker and Counter Pickup Regulation #20",
+      "content": "Express in-store pickup orders are held at designated lockers for up to 22 calendar days before automatic order cancellation."
+    },
+    {
+      "id": "POL-261",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 1",
+      "content": "Grade 1 trade-in devices undergo a 5-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-262",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 2",
+      "content": "Grade 2 trade-in devices undergo a 10-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-263",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 3",
+      "content": "Grade 3 trade-in devices undergo a 15-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-264",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 4",
+      "content": "Grade 4 trade-in devices undergo a 20-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-265",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 5",
+      "content": "Grade 5 trade-in devices undergo a 25-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-266",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 6",
+      "content": "Grade 6 trade-in devices undergo a 30-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-267",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 7",
+      "content": "Grade 7 trade-in devices undergo a 35-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-268",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 8",
+      "content": "Grade 8 trade-in devices undergo a 40-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-269",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 9",
+      "content": "Grade 9 trade-in devices undergo a 45-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-270",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 10",
+      "content": "Grade 10 trade-in devices undergo a 50-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-271",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 11",
+      "content": "Grade 11 trade-in devices undergo a 55-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-272",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 12",
+      "content": "Grade 12 trade-in devices undergo a 60-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-273",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 13",
+      "content": "Grade 13 trade-in devices undergo a 65-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-274",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 14",
+      "content": "Grade 14 trade-in devices undergo a 70-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-275",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 15",
+      "content": "Grade 15 trade-in devices undergo a 75-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-276",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 16",
+      "content": "Grade 16 trade-in devices undergo a 80-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-277",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 17",
+      "content": "Grade 17 trade-in devices undergo a 85-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-278",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 18",
+      "content": "Grade 18 trade-in devices undergo a 90-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-279",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 19",
+      "content": "Grade 19 trade-in devices undergo a 95-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-280",
+      "category": "Trade-In & Refurbished",
+      "topic": "Hardware Condition Inspection Grade 20",
+      "content": "Grade 20 trade-in devices undergo a 100-point technical audit including battery health evaluation and serial number validation."
+    },
+    {
+      "id": "POL-281",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #1 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #1. TechStore requires verified compliance with section GFT-10 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-282",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #2 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #2. TechStore requires verified compliance with section GFT-20 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-283",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #3 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #3. TechStore requires verified compliance with section GFT-30 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-284",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #4 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #4. TechStore requires verified compliance with section GFT-40 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-285",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #5 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #5. TechStore requires verified compliance with section GFT-50 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-286",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #6 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #6. TechStore requires verified compliance with section GFT-60 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-287",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #7 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #7. TechStore requires verified compliance with section GFT-70 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-288",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #8 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #8. TechStore requires verified compliance with section GFT-80 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-289",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #9 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #9. TechStore requires verified compliance with section GFT-90 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-290",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #10 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #10. TechStore requires verified compliance with section GFT-100 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-291",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #11 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #11. TechStore requires verified compliance with section GFT-110 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-292",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #12 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #12. TechStore requires verified compliance with section GFT-120 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-293",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #13 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #13. TechStore requires verified compliance with section GFT-130 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-294",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #14 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #14. TechStore requires verified compliance with section GFT-140 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-295",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #15 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #15. TechStore requires verified compliance with section GFT-150 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-296",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #16 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #16. TechStore requires verified compliance with section GFT-160 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-297",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #17 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #17. TechStore requires verified compliance with section GFT-170 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-298",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #18 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #18. TechStore requires verified compliance with section GFT-180 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-299",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #19 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #19. TechStore requires verified compliance with section GFT-190 under protocol 2026. Contact support for additional clarification."
+    },
+    {
+      "id": "POL-300",
+      "category": "Gift Cards & Certificates",
+      "topic": "Gift Cards & Certificates Rule #20 - Advanced Operational Guideline",
+      "content": "Detailed regulation regarding gift cards & certificates item #20. TechStore requires verified compliance with section GFT-200 under protocol 2026. Contact support for additional clarification."
+    }
+  ]
+}
