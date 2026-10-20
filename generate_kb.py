@@ -29,7 +29,7 @@ def generate_large_knowledge_base():
 
     policies = []
 
-    # 1. Добавляем первые 50 реальных баз из нашего предыдущего шага
+    # 1. Add the first 50 real policies from the previous step
     base_policies = [
         ("Shipping & Delivery", "Standard Shipping Delivery Time", "Standard domestic shipping takes 3-5 business days within the continental United States."),
         ("Shipping & Delivery", "Free Shipping Minimum Threshold", "Free standard ground shipping applies automatically to all orders over $50 before taxes."),
@@ -63,18 +63,18 @@ def generate_large_knowledge_base():
         })
         count += 1
 
-    # 2. Программная генерация остальных пунктов до 300 с глубокой детальностью
+    # 2. Programmatically generate remaining rules up to 300 with deep detail
     for cat_name, prefix in categories:
         for i in range(1, 21):
             if count > 300:
                 break
             
-            # Избегаем дублирования ID
+            # Avoid ID duplication
             policy_id = f"POL-{count:03d}"
             topic = f"{cat_name} Rule #{i} - Advanced Operational Guideline"
             content = f"Detailed regulation regarding {cat_name.lower()} item #{i}. TechStore requires verified compliance with section {prefix}-{i*10} under protocol 2026. Contact support for additional clarification."
             
-            # Добавляем более конкретные правила для ключевых разделов
+            # Add more specific rules for key sections
             if cat_name == "Pre-Orders & Releases":
                 topic = f"Pre-Order Deposit and Fulfillment Option #{i}"
                 content = f"Pre-orders for tier-{i} upcoming releases require a {i*5}% non-refundable deposit. Guarantees launch day delivery if ordered 14 days prior."
@@ -105,7 +105,7 @@ def generate_large_knowledge_base():
     with open("knowledge_base.json", "w", encoding="utf-8") as f:
         json.dump(kb_data, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Успешно сгенерирована база данных: knowledge_base.json ({len(policies)} пунктов)!")
+    print(f"✅ Successfully generated database: knowledge_base.json ({len(policies)} items)!")
 
 if __name__ == "__main__":
     generate_large_knowledge_base()
