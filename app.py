@@ -8,7 +8,7 @@ from google import genai
 from google.genai import types
 from PIL import Image
 
-# 1. Загрузка конфигурации
+# 1. Load configuration
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
 
@@ -16,13 +16,13 @@ if not API_KEY:
     st.error("❌ Error: GEMINI_API_KEY not found in .env file!")
     st.stop()
 
-# 2. Инициализация клиента Gemini с увеличенным таймаутом
+# 2. Initialize Gemini client with extended timeout
 client = genai.Client(
     api_key=API_KEY,
     http_options={'timeout': 120000}
 )
 
-# 3. Загрузка базы знаний
+# 3. Load knowledge base
 @st.cache_data
 def load_knowledge_base(filepath="knowledge_base.json"):
     try:
@@ -33,7 +33,7 @@ def load_knowledge_base(filepath="knowledge_base.json"):
 
 kb = load_knowledge_base()
 
-# 4. Системный промпт (Zero-Hallucination Guardrails)
+# 4. System prompt (Zero-Hallucination Guardrails)
 SYSTEM_INSTRUCTION = f"""
 You are the official Customer Support AI Agent for TechStore.
 Your primary objective is to provide 100% accurate information based ONLY on the provided Knowledge Base below.
@@ -47,14 +47,14 @@ KNOWLEDGE BASE CONTEXT:
 {json.dumps(kb, ensure_ascii=False)}
 """
 
-# Настройка страницы
+# Page configuration
 st.set_page_config(
     page_title="TechStore Chat - AI Assistant",
     page_icon="🟠",
     layout="centered"
 )
 
-# --- ЗАГРУЗКА ИКОНКИ В BASE64 ДЛЯ ЧИСТОГО HTML ---
+# --- LOAD ICON TO BASE64 FOR CLEAN HTML ---
 def get_image_base64(path):
     try:
         with open(path, "rb") as image_file:
@@ -70,15 +70,15 @@ try:
 except Exception:
     assistant_icon = "🤖"
 
-# --- КАСТОМНЫЙ CSS СТИЛЬ ---
+# --- CUSTOM CSS STYLE ---
 st.markdown("""
 <style>
-    /* Скрытие дефолтных элементов Streamlit */
+    /* Hide default Streamlit elements */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     header {visibility: hidden;}
     
-    /* Ограничение ширины основного контейнера */
+    /* Limit main container width */
     .block-container {
         padding-top: 1rem !important;
         padding-bottom: 2rem !important;
@@ -86,7 +86,7 @@ st.markdown("""
         margin: 0 auto !important;
     }
     
-    /* Выравнивание ширины поля ввода точно под шапку */
+    /* Align input field width precisely under the header */
     [data-testid="stChatInput"] {
         max-width: 500px !important;
         margin: 0 auto !important;
@@ -96,17 +96,17 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Инициализация истории чата
+# Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# --- ЕДИНЫЙ ВИДЖЕТ ШАПКИ И ПРИВЕТСТВИЯ ---
+# --- UNIFIED HEADER AND WELCOME WIDGET ---
 if len(st.session_state.messages) == 0:
     icon_html = f'<img src="{icon_b64}" style="width: 65px; height: 65px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">' if icon_b64 else '<div style="font-size: 40px;">🤖</div>'
     
     widget_html = f"""
     <div style="max-width: 500px; margin: 0 auto 20px auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-        <!-- Шапка: Премиум SaaS Стиль с живым индикатором -->
+        <!-- Header: Premium SaaS Style with Live Indicator -->
         <div style="background: linear-gradient(135deg, #181824 0%, #222232 100%); color: white; padding: 22px 16px; border-radius: 16px 16px 0 0; text-align: center; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); border-bottom: 2px solid #FF6B00;">
             <div style="font-weight: 700; font-size: 20px; letter-spacing: 0.4px; display: flex; align-items: center; justify-content: center; gap: 8px;">
                 💬 TechStore AI Chat
@@ -116,7 +116,7 @@ if len(st.session_state.messages) == 0:
                 ZERO-HALLUCINATION ACTIVE
             </div>
         </div>
-        <!-- Карточка приветствия с пиксельной иконкой слева -->
+        <!-- Welcome card with pixel icon on the left -->
         <div style="background: #F8F9FA; border-radius: 0 0 16px 16px; padding: 20px; border: 1px solid #E9ECEF; border-top: none; display: flex; align-items: center; gap: 16px;">
             {icon_html}
             <div>
@@ -132,7 +132,7 @@ if len(st.session_state.messages) == 0:
     """
     st.markdown(widget_html, unsafe_allow_html=True)
 else:
-    # Компактная шапка при активном чате
+    # Compact header for active chat
     header_html = """
     <div style="max-width: 500px; margin: 0 auto 15px auto; font-family: sans-serif;">
         <div style="background: linear-gradient(135deg, #181824 0%, #222232 100%); color: white; padding: 12px; border-radius: 12px; text-align: center; font-weight: 700; font-size: 16px; letter-spacing: 0.5px; border-bottom: 2px solid #FF6B00;">
@@ -142,13 +142,13 @@ else:
     """
     st.markdown(header_html, unsafe_allow_html=True)
 
-# Вывод истории сообщений
+# Display message history
 for message in st.session_state.messages:
     avatar_to_use = assistant_icon if message["role"] == "assistant" else None
     with st.chat_message(message["role"], avatar=avatar_to_use):
         st.markdown(message["content"])
 
-# Функция запроса с автоповтором (модель gemini-3.8-flash)
+# Request function with retries (gemini-3.8-flash model)
 def ask_agent_with_retries(query, retries=3):
     for attempt in range(retries):
         try:
@@ -170,7 +170,7 @@ def ask_agent_with_retries(query, retries=3):
             return f"❌ API Error: {e}"
     return "⚠️ Google servers are busy or the request timed out. Please try again in a few seconds."
 
-# Обработка ввода нового сообщения
+# Handle new message input
 if user_prompt := st.chat_input("Type your question about store policies..."):
     st.session_state.messages.append({"role": "user", "content": user_prompt})
     with st.chat_message("user"):
